@@ -1,0 +1,41 @@
+.headerC h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.box-3{
+    border: 1px solid grey;
+    margin: 10px 0;
+    padding: 10px; 
+    border-radius: 10px;
+}
+
+.container2{
+    width: 80%;
+    margin: auto;
+}
+
+.box-3 table{
+    text-align: center;
+}
+
+.box-3 td{
+    padding-bottom: 8px;
+    border-bottom: solid 1px;
+    border-left: solid 1px;
+    border-right: solid 1px;
+    border-top: solid 1px;
+}
+
+.my-form{
+    padding: 20px;
+}
+
+.form-group{
+    padding-bottom: 5px;
+}
+
+.form-group label{
+    display: block;
+
+}

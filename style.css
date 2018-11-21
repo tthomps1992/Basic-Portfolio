@@ -1,0 +1,64 @@
+body{
+    background-color: cornflowerblue;
+    margin: 0px;
+
+}
+
+.Contact{
+    float: left;
+    margin: auto;
+    padding: auto;
+}
+
+.Gallery{
+    float: left;
+    margin: auto;
+    padding: auto;
+}
+
+.AboutMe{
+    float: left;
+    margin: auto;
+    padding: auto;
+}
+
+a:hover{
+
+    color: red;
+
+}
+
+a:active{
+    color: greenyellow;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.box-1{
+    background-color: bisque;
+
+    border: 5px red solid;
+
+}
+
+
+.header h1{
+    text-decoration: underline;
+
+    text-align: center;
+
+    border: 5px red solid;
+
+    background-color: bisque;
+
+}
+
+
+a{
+    text-decoration: none;
+    
+}
+
